@@ -46,6 +46,7 @@ git clone https://github.com/omrigrossman/weather-mcp.git
 cd weather-mcp
 npm install
 npm run build
+npx node build/index.js      
 ```
 
 ## Notes
